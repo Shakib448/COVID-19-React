@@ -1,1 +1,1 @@
-<img src="src/images/summary.png"/>
+<img src="src/images/covid.png"/>
