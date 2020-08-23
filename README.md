@@ -1,1 +1,0 @@
-<img src="src/images/summary.png"/>
